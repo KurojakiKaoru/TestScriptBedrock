@@ -1,0 +1,1 @@
+ROBOCOPY "C:\Users\ztech\OneDrive\Documents\GitHub\TestScriptBedrock" "C:\Users\ztech\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\behavior_packs\TestScriptBedrock" /mir /xd "C:\Users\ztech\OneDrive\Documents\GitHub\TestScriptBedrock\.git" /xf *.gitattributes *.bat

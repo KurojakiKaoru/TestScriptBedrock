@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "This is just a test bedrock script.",
+        "name": "Test Script",
+        "uuid": "f3e9154c-b90a-4bfe-baa9-89e93116338d",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 12, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Example vanilla behavior pack",
+            "type": "data",
+            "uuid": "fa6e90c8-c925-460f-8155-c8a60b753caa",
+            "version": [0, 0, 1]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "66c6e9a8-3093-462a-9c36-dbb052165822",
+            "version": [0, 0, 1]
+        }
+    ]
+}
